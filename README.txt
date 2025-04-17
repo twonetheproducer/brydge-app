@@ -1,0 +1,1 @@
+This is the full BrYdge app. Upload this folder to Vercel to deploy.
